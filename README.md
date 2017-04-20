@@ -1,6 +1,6 @@
 # gitdemo_on_windows
 
-##subheading
+## subheading
 
 Hello world kinda
 
